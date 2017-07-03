@@ -7,7 +7,7 @@ set autoread
 
 set showmode
 
-hi CursorColumn guibg=#333333
+
 
 set incsearch
 set hlsearch
